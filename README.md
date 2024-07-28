@@ -1,4 +1,4 @@
-![Open Source at kazu70](https://github.com/kazu70/kazu70/image.jpg)
+![KAZU70](https://raw.githubusercontent.com/kazu70/kazu70/main/image.jpg)
 ## About Me
 主にphpを使ってwebサイトの作成をしています。
 
