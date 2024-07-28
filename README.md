@@ -2,10 +2,12 @@
 ## About Me
 主にphpを使ってwebサイトの作成をしています。
 
+## Using Editor
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=visualstudio,vscode,vim" />  
 
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,php,mysql,cs,dotnet,blender,cloudflare,discordjs,replit,visualstudio,vscode" />  
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,php,mysql,cs,py,js,nodejs,discordjs,bots" />  
 
 ## About Github
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazu70&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kazu70"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazu70&&theme=tokyonight" alt="kazu70"></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazu70&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kazu70" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazu70&&theme=tokyonight" alt="kazu70" />
